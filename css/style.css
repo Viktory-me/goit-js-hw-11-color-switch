@@ -1,0 +1,15 @@
+* {
+        text-align: center;
+    }
+  button {
+      width: 200px;
+      height: 100px;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      font-size: 48px;
+    font-weight: normal;
+    border-radius: 8px;
+  }
+  button:disabled {
+      background-color:coral;
+  }
